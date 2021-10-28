@@ -1,0 +1,9 @@
+{
+	"ip":"BloodyCORE.aternos.me",
+	"port": "45509",
+	"name": "shti",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
